@@ -39,9 +39,10 @@ div .unit {
 .unit p {
   position: absolute;
   left: .5em;
-  bottom: .1rem;
+  bottom: .5rem;
   border-radius: .5rem;
   padding: 1rem;
+  margin: 0;
 }
 
 figure {
